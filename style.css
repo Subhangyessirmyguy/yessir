@@ -1,0 +1,64 @@
+body{
+    margin:0;
+    text-align:center;
+    padding-top:800px;
+}
+.profile{
+    text-align:center;
+    vertical-align:middle;
+    display:table-cell;
+    position:relative;
+}
+#MyGuyLee{
+margin-botton:50px;
+border-radius:100px;
+width:200px;
+}
+#name{
+    font-size:18px;
+    font-family:cursive;
+}
+#intro{
+    font-size:40px;
+    font-weight:bold;
+}
+h2{
+    font-size:30px;
+    font-weight:bold;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#welcome{
+    position:absolute;
+    color:red;
+    height:800px;
+    left:0;
+    top:0;
+    bottom:0;
+    right:0;
+    width:100%;
+    background:linear-gradient(white 0%, black 100%);
+    display:table;
+    overflow:hidden;
+}
+#bio{
+    padding:50px;
+    text-align:center;
+    font-size:40px;
+}
+h1{
+    font-size:40px;
+    font-family:inherit;
+    font-weight:bold;
+
+}
+.line{
+    height:6px;
+    width:70px;
+    background-color:lightcoral;
+    margin:8px auto;
+}
+p{
+    max-width:450px;
+    margin:25px auto;
+    font-size:20px;
+}
